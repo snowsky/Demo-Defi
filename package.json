@@ -51,7 +51,7 @@
     "reactstrap": "9.2.2",
     "room-populate": "^1.0.17",
     "validator": "^13.12.0",
-    "web3": "^1.3.3"
+    "web3": "^4.0.1"
   },
   "scripts": {
     "client": "react-scripts --openssl-legacy-provider start",
